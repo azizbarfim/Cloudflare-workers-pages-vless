@@ -5,7 +5,7 @@ import { connect } from 'cloudflare:sockets';
 
 // How to generate your own UUID:
 // https://www.uuidgenerator.net/
-let userID = 'XXXX';
+let userID = 'fcf7fe3b-c0d1-42da-aac9-e4844f1148b3';
 
 const proxyIPs = [
     "8.222.128.131",
